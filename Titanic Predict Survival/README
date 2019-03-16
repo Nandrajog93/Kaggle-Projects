@@ -1,1 +1,26 @@
 
+KAGGLE
+
+Data Preprocessing
+
+Read test and train csv file using panda. The Survived column, which is the set of labels is dropped.
+
+The columns having NaN values were found out and filled with the most frequent value.
+
+2.Feature Engineering
+
+Creation of new features by checking the correlation with Survived variable
+
+Columns which had non-numeric value were encoded into numeric value. This process is called Encoding of categorical variables.
+
+3.Normalization of data
+
+Normalization of data using log(1+x).
+Then after all above steps, the data spilt again into train & test set.
+
+
+Here I used PCA with 1 regression model SVR .
+Firstly, I predict the results using SVR.
+
+Result:
+80.861 accuracy
