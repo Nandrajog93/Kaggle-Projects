@@ -3,8 +3,24 @@
 
 Forest cover prediction using ML technique
 
-#Algo used
+#Algo used:
 
 1) RANDOM FOREST
-2)SVM
+2) SVM
 
+#Install Dependency:
+
+1) numpy -- pip3 install numpy
+2) scipy -- pip3 install scipy
+3) scikit-learn --- pip3 install scikit-learn
+
+
+
+# Observation
+
+Random Forests perform better than the SVM classfier both in terms of predictions and computational time.
+
+
+# Result
+
+Accuracy of Random Forests: 83.45 % Accuracy of SVM: 76.93 %
