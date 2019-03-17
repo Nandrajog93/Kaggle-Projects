@@ -1,7 +1,7 @@
 # Kaggle-Projects
 
 
-This repository currently consists of Three projects implemented in PYTHON. Refer to the following mentioned folder names.
+This repository currently consists of Three projects implemented in PYTHON and R. Refer to the following mentioned folder names.
 
 # What is it?
 
@@ -23,7 +23,8 @@ Accuracy: 80.861
 
 3. Forest Cover Predicton
 
-University project 
+The task is to predict an integer classification for the forest cover type.
+Language & Knowledge Inferred: R, Random Forest , SVM,  Classification task
 
 
 # Installation 
