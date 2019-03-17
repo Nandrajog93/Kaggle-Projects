@@ -1,7 +1,7 @@
 # Kaggle-Projects
 
 
-This repository currently consists of two projects implemented in PYTHON. Refer to the following mentioned folder names.
+This repository currently consists of Three projects implemented in PYTHON. Refer to the following mentioned folder names.
 
 # What is it?
 
@@ -20,6 +20,10 @@ Kaggle competition for predicting if a passenger survived the sinking of the Tit
 Language & Knowledge Inferred: Python, PCA, SVR, Feature Creation.
 
 Accuracy: 80.861
+
+3. Forest Cover Predicton
+
+University project 
 
 
 # Installation 
