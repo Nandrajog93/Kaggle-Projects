@@ -5,7 +5,7 @@ This repository currently consists of 4 projects implemented in PYTHON and R. Re
 
 # What is it?
 
-1. Kaggle advance regression technique: House price 
+##### 1. Kaggle advance regression technique: House price 
 
 Kaggle competition for predicting the house prices and practice feature engineering, RFs, and gradient boosting.
 
