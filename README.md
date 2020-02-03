@@ -5,34 +5,34 @@ This repository currently consists of 4 projects implemented in PYTHON and R. Re
 
 # What is it?
 
-##### 1. Kaggle advance regression technique: House price 
+### 1. Kaggle advance regression technique: House price 
 
 Kaggle competition for predicting the house prices and practice feature engineering, RFs, and gradient boosting.
 
 Language & Knowledge Inferred: Python, XGboost, Polynomial Regression, Feature scaling, Data Pre-processing.
 
-Public Score: 0.12352
+### Public Score: 0.12352
 
-2. Kaggle Classification Problem: Titanic
+### 2. Kaggle Classification Problem: Titanic
 
 Kaggle competition for predicting if a passenger survived the sinking of the Titanic or not.
 
 Language & Knowledge Inferred: Python, PCA, SVR, Feature Creation.
 
-Accuracy: 80.861
+### Accuracy: 80.861
 
-3. Forest Cover Predicton
+### 3. Forest Cover Predicton
 
 The task is to predict an integer classification for the forest cover type.
 Language & Knowledge Inferred: R, Random Forest , SVM,  Classification task
 
-4. Kaggle Classification Problem: Home Credit Default Risk
+### 4. Kaggle Classification Problem: Home Credit Default Risk
 
 • Kaggle competition for Classification problem How capable each applicant is of repaying a loan?
 
 • Tools used: Python language, Scikit-learn, pandas, numpy, Data Exploration, Data Imputation, Logistic Regression, Ensemble learning, SGDClassifier, Feature engineering, Performance Evaluation, Matplotlib, Seaborn.
 
-ROCAUC = 0.73492
+### ROCAUC = 0.73492
 
 
 # Installation 
