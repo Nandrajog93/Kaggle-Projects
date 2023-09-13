@@ -1,5 +1,5 @@
-# Kaggle-Projects
-
+## Kaggle-Projects
+ 
 
 This repository currently consists of 4 projects implemented in PYTHON and R. Refer to the following mentioned folder names.
 
